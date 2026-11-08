@@ -60,7 +60,9 @@ ever holding funds in custody.
 
 ## Status
 
-Active development. Applying to the
+**Stage: design and planning.** This repository currently holds the project
+plan and roadmap; implementation starts with the Rafiki sandbox (first item
+in the roadmap below). Applying to the
 [Interledger Foundation Open Payments Accelerator 2026](https://interledger.org).
 
 User research conducted in-person with students at the University of Lagos
